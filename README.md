@@ -1,6 +1,6 @@
 # traceautopart
 
-> 溯源
+> 基于nem链的区块链汽车零配件溯源项目
 
 ## Build Setup
 
@@ -21,5 +21,3 @@ npm run build --report
 cd backend
 npm start
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
